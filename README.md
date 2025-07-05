@@ -1,14 +1,13 @@
 ## About Me
 
-👋 Hi, I’m **@Levi-7-7-7**.
-
-- 👀 Honestly, I’m not interested in much — just exploring as I go.  
-- 🌱 Currently learning **Computer Science** at Maharaja’s Technological Institute, Thrissur.  
-- 💞️ Open to collaboration, but mostly focused on my own path for now.  
-- 📫 How to reach me? Well... that’s a bit of a mystery.  
-- 😄 Pronouns? Just call me **GOD** (for fun).  
-- ⚡ Fun fact: There’s actually nothing funny here — just straight-up real talk.
+👋 Hi, I’m **Levi** 
+* 💻 I’m passionate about **software development**, especially in areas like **web technologies**, **backend systems**, and **full-stack development**.
+* 🌱 Currently learning and building projects using the **MERN stack**, APIs, and modern development tools.
+* 🚀 I enjoy working on real-world problems and continuously improving my skills through hands-on experience.
+* 🤝 Open to internships, freelance projects, and collaboration opportunities.
 
 ---
 
-Thanks for stopping by!  
+Thanks for checking out my profile!
+
+---
